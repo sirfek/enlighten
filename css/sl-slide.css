@@ -27,7 +27,7 @@
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
-	background: #fff;
+	background: #000;
 	-webkit-backface-visibility: hidden;
 	-moz-backface-visibility: hidden;
 	-o-backface-visibility: hidden;
@@ -99,15 +99,15 @@
 	display: none;
 }
 .sl-slide-horizontal .sl-slide-inner {
-	background: #3498DB;
+	background: #ffffff;
 }
 
 .sl-slide-vertical .sl-slide-inner {
-	background: #E67E22;
+	background: #ffffff
 }
 
 .item3 .sl-slide-inner {
-	background: #9B59B6;
+	background: #ffffff;
 }
 
 .sl-slider h2 {
@@ -120,7 +120,7 @@
 }
 
 .sl-slider h2, .sl-slider h3{
-	color: #fff;
+	color: #000;
 }
 
 .sl-slider h3 {
