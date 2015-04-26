@@ -158,7 +158,7 @@
 	transition: 300ms;
 }
 .nav-arrows span:hover {
-	color: #fff;	
+	color: #000;	
 }
 .nav-arrows span.nav-arrow-prev {
 	left: 0;
